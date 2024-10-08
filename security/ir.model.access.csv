@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_kadastr_inventory_kadastr_inventory,kadastr_inventory.kadastr_inventory,model_kadastr_inventory_kadastr_inventory,base.group_user,1,1,1,1

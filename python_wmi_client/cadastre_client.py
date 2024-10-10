@@ -2,6 +2,9 @@
 import wmi
 import configparser
 import os
+
+
+
 # créer un nouvel objet wmi
 c = wmi.WMI()
 
